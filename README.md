@@ -30,11 +30,11 @@
 |------|------|-----------|
 | ✅ Checklist for Trip | Список для подорожей | [GitHub](https://github.com/Jaelouss/checklist-for-trip) |
 | 🔢 Multiplication Trainer | Тренажер множення | [GitHub](https://github.com/Jaelouss/trainer-multiplication-table) |
-| 💡 JS Projects | Навчальні JS-завдання | [GitHub](https://github.com/Jaelouss/js-project) |
+| 💡 JS Projects | Навчальний проект з JS| [GitHub](https://github.com/Jaelouss/js-project) |
 | 🕛 New Year Timer | Таймер до нового року | [GitHub](https://github.com/Jaelouss/New-Year-Timer) |
 | 🛍️ Subscription Sales | Тестовий веб-магазин | [GitHub](https://github.com/Jaelouss/subscription-sales) |
 | 🧠 NFT Marketplace | Проєкт команди DevNinjas | [GitHub](https://github.com/Jaelouss/NFT-marketplace-DevNinjas) |
-| ⌚ Watch Charm | Командний проєкт на JS | [GitHub](https://github.com/Jaelouss/team-project-watch-charm) |
+| ⌚ Watch Charm | Командний проєкт з HTML | [GitHub](https://github.com/Jaelouss/team-project-watch-charm) |
 
 ---
 
