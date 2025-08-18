@@ -13,18 +13,91 @@
 
 ### 🔧 Стек, який прокачую
 
+### 🔹 Front-end
+
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" style="margin:10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" style="margin:10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" style="margin:10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" style="margin:10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" style="margin:10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" style="margin:10px;"/>
-  <img src="https://cdn.simpleicons.org/express/000000/FFFFFF" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" style="margin:10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" style="margin:10px;"/>
+  <a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" style="margin:5px;"/>
+  </a>
+  <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" style="margin:5px;"/>
+  </a>
+  <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" style="margin:5px;"/>
+  </a>
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" style="margin:5px;"/>
+  </a>
+  <a href="https://www.typescriptlang.org/docs/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" style="margin:5px;"/>
+  </a>
+  <a href="https://reactrouter.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" style="margin:5px;"/>
+  </a>
+  <a href="https://docs.pmnd.rs/zustand/getting-started/introduction" target="_blank">
+    <img src="https://raw.githubusercontent.com/pmndrs/zustand/main/logo.png" width="40" style="margin:5px;"/>
+  </a>
+  <a href="https://redux-toolkit.js.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" width="40" style="margin:5px;"/>
+  </a>
+  <a href="https://formik.org/docs/overview" target="_blank">
+    <img src="https://formik.org/images/formik-logo.png" width="40" style="margin:5px;"/>
+  </a>
+  <a href="https://www.i18next.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/i18next/i18next-logo/master/i18next-logo.png" width="40" style="margin:5px;"/>
+  </a>
+  <a href="https://tanstack.com/query/latest" target="_blank">
+    <img src="https://raw.githubusercontent.com/TanStack/query/main/media/logo.png" width="40" style="margin:5px;"/>
+  </a>
 </p>
----
+
+### 🔹 Back-end
+
+<p align="left">
+  <a href="https://nodejs.org/docs" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" style="margin:5px;"/>
+  </a>
+  <a href="https://expressjs.com/" target="_blank">
+    <img src="https://cdn.simpleicons.org/express/000000/FFFFFF" width="40" style="margin:5px;"/>
+  </a>
+  <a href="https://www.mongodb.com/docs/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" style="margin:5px;"/>
+  </a>
+  <a href="https://mongoosejs.com/docs/guide.html" target="_blank">
+    <img src="https://mongoosejs.com/docs/images/mongoose-logo-transparent.png" width="40" style="margin:5px;"/>
+  </a>
+</p>
+
+### 🔹 Utilities / Tools
+
+<p align="left">
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" style="margin:5px;"/>
+  </a>
+  <a href="https://docs.github.com/en/actions" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" style="margin:5px;"/>
+  </a>
+  <a href="https://pages.github.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/githubpages.svg" width="40" style="margin:5px;"/>
+  </a>
+  <a href="https://www.figma.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" style="margin:5px;"/>
+  </a>
+  <a href="https://eslint.org/docs/latest/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" width="40" style="margin:5px;"/>
+  </a>
+  <a href="https://prettier.io/docs/en/index.html" target="_blank">
+    <img src="https://prettier.io/icon.png" width="40" style="margin:5px;"/>
+  </a>
+  <a href="https://www.postman.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" style="margin:5px;"/>
+  </a>
+  <a href="https://www.npmjs.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" style="margin:5px;"/>
+  </a>
+</p>
+
+
 
 ### 🧩 Мої проєкти
 
