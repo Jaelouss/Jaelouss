@@ -13,84 +13,35 @@
 
 ### 🔧 Стек, який прокачую
 
-🔹 Front-end
-<p align="left">
-  <a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  </a>
-  <a href="https://react.dev/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/docs/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
-  </a>
-  <a href="https://reactrouter.com/" target="_blank">
-    <img src="https://www.svgrepo.com/show/354262/react-router.svg" width="40"/>
-  </a>
-  <a href="https://docs.pmnd.rs/zustand/getting-started/introduction" target="_blank">
-    <img src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg" width="40"/>
-  </a>
-  <a href="https://redux-toolkit.js.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" width="40"/>
-  </a>
-  <a href="https://formik.org/docs/overview" target="_blank">
-    <img src="https://user-images.githubusercontent.com/4060187/61057426-4e5a4600-a3c3-11e9-9114-630743e05814.png" width="40"/>
-  </a>
-  <a href="https://www.i18next.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/i18next/i18next-icon.svg" width="40"/>
-  </a>
-  <a href="https://tanstack.com/query/latest" target="_blank">
-    <img src="https://tanstack.com/assets/logo-color-100w-br5_Ikqp.png" width="40"/>
-  </a>
-</p>
+### 🔹 Front-end
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>](https://developer.mozilla.org/docs/Web/HTML)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>](https://developer.mozilla.org/docs/Web/CSS) 
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>](https://developer.mozilla.org/docs/Web/JavaScript) 
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>](https://react.dev/) 
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>](https://www.typescriptlang.org/docs/) 
+[<img src="https://www.svgrepo.com/show/354262/react-router.svg" width="40" height="40"/>](https://reactrouter.com/) 
+[<img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" width="40" height="40"/>](https://redux-toolkit.js.org/) 
+[<img src="https://user-images.githubusercontent.com/4060187/61057426-4e5a4600-a3c3-11e9-9114-630743e05814.png" width="40" height="40"/>](https://formik.org/docs/overview) 
+[<img src="https://www.vectorlogo.zone/logos/i18next/i18next-icon.svg" width="40" height="40"/>](https://www.i18next.com/) 
+[<img src="https://tanstack.com/assets/logo-color-100w-br5_Ikqp.png" width="40" height="40"/>](https://tanstack.com/query/latest) 
+[<img src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg" width="40" height="40"/>](https://docs.pmnd.rs/zustand/getting-started/introduction) 
 
-🔹 Back-end
-<p align="left">
-  <a href="https://nodejs.org/docs" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
-  </a>
-  <a href="https://expressjs.com/" target="_blank">
-    <img src="https://cdn.simpleicons.org/express/000000/FFFFFF" width="40"/>
-  </a>
-  <a href="https://www.mongodb.com/docs/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
-  </a>
-  <a href="https://mongoosejs.com/docs/guide.html" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/7552965?s=400&v=4" width="40"/>
-  </a>
-</p>
+### 🔹 Back-end
+[<img src="https://cdn.iconscout.com/icon/free/png-256/free-node-js-1174925.png?f=webp" width="40" height="40"/>](https://nodejs.org/docs) 
+[<img src="https://cdn.simpleicons.org/express/000000/FFFFFF" width="40" height="40"/>](https://expressjs.com/) 
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>](https://www.mongodb.com/docs/) 
+[<img src="https://avatars.githubusercontent.com/u/7552965?s=400&v=4" width="40" height="40"/>](https://mongoosejs.com/docs/guide.html) 
 
-🔹 Utilities / Tools
-<p align="left">
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
-  </a>
-  <a href="https://docs.github.com/en/actions" target="_blank">
-    <img src="https://github.gallerycdn.vsassets.io/extensions/github/vscode-github-actions/0.27.2/1749139672616/Microsoft.VisualStudio.Services.Icons.Default" width="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
-  </a>
-  <a href="https://eslint.org/docs/latest/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" width="40"/>
-  </a>
-  <a href="https://prettier.io/docs/en/index.html" target="_blank">
-    <img src="https://prettier.io/icon.png" width="40"/>
-  </a>
-  <a href="https://www.postman.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
-  </a>
-  <a href="https://www.npmjs.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40"/>
-  </a>
-</p>
+### 🔹 Utilities / Tools
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>](https://code.visualstudio.com/) 
+[<img src="https://github.gallerycdn.vsassets.io/extensions/github/vscode-github-actions/0.27.2/1749139672616/Microsoft.VisualStudio.Services.Icons.Default" width="40" height="40"/>](https://docs.github.com/en/actions) 
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>](https://www.figma.com/) 
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" width="40" height="40"/>](https://eslint.org/docs/latest/) 
+[<img src="https://prettier.io/icon.png" width="40" height="40"/>](https://prettier.io/docs/en/index.html) 
+[<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>](https://www.postman.com/) 
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" height="40"/>](https://www.npmjs.com/)
 
+---
 
 ### 🧩 Мої проєкти
 
