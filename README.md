@@ -32,7 +32,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" style="margin:5px;"/>
   </a>
   <a href="https://reactrouter.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" style="margin:5px;"/>
+    <img src="https://www.svgrepo.com/show/354262/react-router.svg" width="40" style="margin:5px;"/>
   </a>
   <a href="https://docs.pmnd.rs/zustand/getting-started/introduction" target="_blank">
     <img src="https://raw.githubusercontent.com/pmndrs/zustand/main/logo.png" width="40" style="margin:5px;"/>
@@ -75,10 +75,10 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" style="margin:5px;"/>
   </a>
   <a href="https://docs.github.com/en/actions" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" style="margin:5px;"/>
+    <img src="https://techicons.dev/icons/githubactions.svg" width="40" style="margin:5px;"/>
   </a>
   <a href="https://pages.github.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/githubpages.svg" width="40" style="margin:5px;"/>
+    <img src="https://techicons.dev/icons/githubpages.svg" width="40" style="margin:5px;"/>
   </a>
   <a href="https://www.figma.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" style="margin:5px;"/>
@@ -96,7 +96,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" style="margin:5px;"/>
   </a>
 </p>
-
 
 
 ### 🧩 Мої проєкти
