@@ -45,17 +45,18 @@
 
 ### 🧩 Мої проєкти
 
-| Назва | Опис | Посилання |
-|------|------|-----------|
-| 📄 Harmoniq | Сайт для написання статей  | [GitHub](https://github.com/Jaelouss/project-harmoniq-front-end) |
-| ✅ Checklist for Trip | Список для подорожей | [GitHub](https://github.com/Jaelouss/checklist-for-trip) |
-| 🔢 Multiplication Trainer | Тренажер множення | [GitHub](https://github.com/Jaelouss/trainer-multiplication-table) |
-| 🧸 Kindergarden School | Сайт дошкільнят з повним респонсивом | [GitHub](https://github.com/Jaelouss/school-project) |
-| 💡 JS Projects | Навчальний проект з JS| [GitHub](https://github.com/Jaelouss/js-project) |
-| 🕛 New Year Timer | Таймер до нового року | [GitHub](https://github.com/Jaelouss/New-Year-Timer) |
-| 🛍️ Subscription Sales | Тестовий веб-магазин | [GitHub](https://github.com/Jaelouss/subscription-sales) |
-| 🧠 NFT Marketplace | Проєкт команди DevNinjas | [GitHub](https://github.com/Jaelouss/NFT-marketplace-DevNinjas) |
-| ⌚ Watch Charm | Командний проєкт з HTML | [GitHub](https://github.com/Jaelouss/team-project-watch-charm) |
+| Назва | Опис | Посилання | Жива |
+|------|------|-----------|------|
+| 🌷 FlowerLover | Сервіс для замовлення квітів | [GitHub](https://github.com/Jaelouss/flower-delivery-app) | [Live](https://flower-delivery-app-psi.vercel.app/) |
+| 📄 Harmoniq | Сайт для написання статей  | [GitHub](https://github.com/Jaelouss/project-harmoniq-front-end) | [Live](https://project-harmoniq-front-end.vercel.app/) |
+| ✅ Checklist for Trip | Список для подорожей | [GitHub](https://github.com/Jaelouss/checklist-for-trip) | [Live](https://jaelouss.github.io/checklist-for-trip/) |
+| 🔢 Multiplication Trainer | Тренажер множення | [GitHub](https://github.com/Jaelouss/trainer-multiplication-table) | [Live](https://jaelouss.github.io/trainer-multiplication-table/) |
+| 🧸 Kindergarden School | Сайт дошкільнят з повним респонсивом | [GitHub](https://github.com/Jaelouss/school-project) | [Live](https://jaelouss.github.io/school-project/) |
+| 💡 JS Projects | Навчальний проект з JS| [GitHub](https://github.com/Jaelouss/js-project) | [Live](https://jaelouss.github.io/js-project/) |
+| 🕛 New Year Timer | Таймер до нового року | [GitHub](https://github.com/Jaelouss/New-Year-Timer) | [Live](https://jaelouss.github.io/New-Year-Timer/) |
+| 🛍️ Subscription Sales | Тестовий веб-магазин | [GitHub](https://github.com/Jaelouss/subscription-sales) | [Live](https://jaelouss.github.io/subscription-sales/) |
+| 🧠 NFT Marketplace | Проєкт команди DevNinjas | [GitHub](https://github.com/Jaelouss/NFT-marketplace-DevNinjas) | [Live](https://jaelouss.github.io/NFT-marketplace-DevNinjas/) |
+| ⌚ Watch Charm | Командний проєкт з HTML | [GitHub](https://github.com/Jaelouss/team-project-watch-charm) | [Live](https://jaelouss.github.io/team-project-watch-charm/) |
 
 ---
 
