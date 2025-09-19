@@ -66,6 +66,7 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Jaelouss)
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100001152660992)
 [![Gmail](https://img.shields.io/badge/-devilsbrother1@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:devilsbrother1@gmail.com)
+[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/JevexSystems)
 
 ---
 
